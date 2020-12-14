@@ -1,4 +1,4 @@
-This Twitter Competition Bot is an old project of mine that used to enteer "RT to WIN" competitions on Twitter using cronjobs to find relevant tweets.
+This Twitter Competition Bot is an old project of mine that used to enter "RT to WIN" competitions on Twitter using cronjobs to find relevant tweets.
 
 It used a very old implementation of TwitterOAuth whose README.MD is below and license is contained in this folder. 
 
